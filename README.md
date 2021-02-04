@@ -1,11 +1,10 @@
 # Court Counter Sample App
-_____
+
 This app keeps track of basketball scores for two teams. I have learned in the Udacity Android for Beginners course
 
 ## Image
 _____
-![Rough Layout](C:\Users\PRACHI\Downloads\rough_idea)
-![Birthday Card Ready](C:\Users\PRACHI\Downloads\birthday_card)
+![Court-Counter-App](https://user-images.githubusercontent.com/54476598/106936360-78f8b600-6742-11eb-935b-601349e6bd6b.jpg)
 
 ## Desciption
 ____
